@@ -26,9 +26,6 @@ jobs:
           github_user_name: victhorhugoo #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-          color_snake: '#9400D3'      # Cor da cobra
-          color_dots: '#00BFFF,#1E90FF,#4169E1,#6495ED'  # Cores dos quadrados do gráfico
-          color_background: '#000000'
 
       - run: git status
 
