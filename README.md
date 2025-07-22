@@ -1,5 +1,9 @@
-## Bem-vindo(a) ao meu github! 😁
-### Sobre mim:
+## Victor Hugo 
+### Seja Bem-vindo! 😁
+Sou um desenvolvedor de software backend com foco em python, buscando por oportunidades na área. 
+Sou um entusiasta com a área de tecnologia e estudante dedicado com bom desempenho acadêmico. Sou formado em Análise e desenvolvimento de sistemas e atualmente estou bacharelando em ciência da computação.
+Tenho esperiência em html, javaScript, orientação a objetos, sql, polimorfismo, tratamento de erros, desenvolvimento para cloud, iot e BigData, estrutura de dados, desenvolvimento para dispositivos móveis.
+
 - 🎓 Estudante de Ciência da computação
 - 🎓Formado em Análise e Desenvolvimento de Sistemas
 - 💻 Apaixonado por desenvolvimento web, eletrônica e tecnologia
@@ -110,7 +114,6 @@
 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:victhorhugo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/victor-hugo-pereira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <br>
