@@ -38,6 +38,9 @@ jobs:
           outputs: |     
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
+            color_snake: '#9400D3'      # Cor da cobra
+            color_dots: '#00BFFF,#1E90FF,#4169E1,#6495ED'  # Cores dos quadrados do gráfico
+            color_background: '#000000'
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
