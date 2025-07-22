@@ -115,7 +115,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/victhorhugoo/victhorhugoo/output/github-contribution-grid-snake.gif">
+<img src="https://raw.githubusercontent.com/victhorhugoo/victhorhugoo/output/github-contribution-grid-snake.svg">
 
 
 
