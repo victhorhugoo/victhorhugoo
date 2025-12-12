@@ -104,13 +104,14 @@ Tenho esperiência em html, javaScript, orientação a objetos, sql, polimorfism
 ### 📢 Pra conteúdo sobre programação me siga nas redes abaixo!
 
   <a href="https://seu-site.com" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="victorhugo1225" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/victor-hugo-pereira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/5521975789153" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <br>
 <img src="https://raw.githubusercontent.com/victhorhugoo/victhorhugoo/output/github-contribution-grid-snake.svg">
 <br> <img src="https://raw.githubusercontent.com/victhorhugoo/victhorhugoo/output/github-contribution-grid-snake.svg">
+
 
 
 
