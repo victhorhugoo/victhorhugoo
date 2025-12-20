@@ -2,7 +2,7 @@
 ### Seja Bem-vindo! 😁
 Sou um desenvolvedor de software backend com foco em python, buscando por oportunidades na área. 
 Sou um entusiasta com a área de tecnologia e estudante dedicado com bom desempenho acadêmico. Sou formado em Análise e desenvolvimento de sistemas e atualmente estou bacharelando em ciência da computação.
-Tenho esperiência em HTML, JavaScript, Python, orientação a objetos, SQL, polimorfismo, tratamento de erros, desenvolvimento para cloud, IOT e BigData, estrutura de dados, desenvolvimento para dispositivos móveis.
+Tenho experiência em HTML, JavaScript, Python, orientação a objetos, SQL, polimorfismo, tratamento de erros, desenvolvimento para cloud, IOT e BigData, estrutura de dados, desenvolvimento para dispositivos móveis.
 
 - 🎓 Estudante de Ciência da computação
 - 🎓Formado em Análise e Desenvolvimento de Sistemas
