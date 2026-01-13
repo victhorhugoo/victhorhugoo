@@ -88,19 +88,9 @@ Tenho experiência em HTML, JavaScript, Python, orientação a objetos, SQL, pol
 <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
-<br/>
-<br/>
-
-<div>
-  <a href="https://github.com/victhorhugoo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victhorhugoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victhorhugoo&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
-
-
 <br>
 
+---
 ### 📢 Pra conteúdo sobre programação me siga nas redes abaixo!
 
   <a href="https://seu-site.com" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -108,9 +98,8 @@ Tenho experiência em HTML, JavaScript, Python, orientação a objetos, SQL, pol
   <a href="https://www.linkedin.com/in/victor-hugo-pereira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/5521975789153" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<br>
-<img src="https://raw.githubusercontent.com/victhorhugoo/victhorhugoo/output/github-contribution-grid-snake.svg">
-<br>
+
+
 
 
 
