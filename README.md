@@ -1,5 +1,7 @@
-## Victor Hugo 
-### Seja Bem-vindo! 😁
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header&text=Victor+Hugo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<h1 align="center"> Olá, Seja Bem-vindo!</h1>
+
 Sou um desenvolvedor de software backend com foco em python, buscando por oportunidades na área. 
 Sou um entusiasta com a área de tecnologia e estudante dedicado com bom desempenho acadêmico. Sou formado em Análise e desenvolvimento de sistemas e atualmente estou bacharelando em ciência da computação.
 Tenho experiência em HTML, JavaScript, Python, orientação a objetos, SQL, polimorfismo, tratamento de erros, desenvolvimento para cloud, IOT e BigData, estrutura de dados, desenvolvimento para dispositivos móveis.
@@ -11,82 +13,10 @@ Tenho experiência em HTML, JavaScript, Python, orientação a objetos, SQL, pol
 
 ---
 ### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,cs,react,vite,nextjs,nodejs,html,css,tailwind,prisma,postgres,mysql,figma" />
+</p>
 
 <br>
 
